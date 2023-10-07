@@ -51,3 +51,12 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
+.container-contact {
+  margin: 0 auto;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
