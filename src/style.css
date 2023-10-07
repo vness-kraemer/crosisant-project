@@ -1,0 +1,51 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}
+
+.btn {
+  width: 8rem;
+  padding: 10px;
+  background-color: #38598b;
+  border-color: #38598b;
+  border-radius: 0%;
+}
+
+.btn:hover {
+  background-color: white;
+  color: #38598b;
+  border-color: #38598b;
+}
+
+.line {
+  width: 6rem;
+}
+
+.container {
+  margin: 0;
+  margin-top: 3rem;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container-photos {
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+}
